@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/updateid"
+        android:title="Update"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Deleteid"
+        android:title="Delete"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/names"
+        android:title="No.ofNames"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/viewid"
+        android:title="View"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/loginid"
+        android:title="Login"
+        app:showAsAction="never" />
+
+</menu>
